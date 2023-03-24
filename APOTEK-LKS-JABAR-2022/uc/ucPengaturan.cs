@@ -66,7 +66,7 @@ namespace APOTEK_LKS_JABAR_2022.uc
             {
                 Properties.Settings.Default.lat = lat;
                 Properties.Settings.Default.lng = lng;
-                Properties.Settings.Default.
+                Properties.Settings.Default.namaAplikasi = txtNamaAplikasi.Text;
                 MessageBox.Show("Berhasi disimpan!", "Information", MessageBoxButtons.OK, MessageBoxIcon.Information);
             }
             else
