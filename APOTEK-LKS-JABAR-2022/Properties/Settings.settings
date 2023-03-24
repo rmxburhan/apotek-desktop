@@ -1,0 +1,18 @@
+﻿<?xml version='1.0' encoding='utf-8'?>
+<SettingsFile xmlns="http://schemas.microsoft.com/VisualStudio/2004/01/settings" CurrentProfile="(Default)" GeneratedClassNamespace="APOTEK_LKS_JABAR_2022.Properties" GeneratedClassName="Settings">
+  <Profiles />
+  <Settings>
+    <Setting Name="namaAplikasi" Type="System.String" Scope="User">
+      <Value Profile="(Default)">Apotek Sejahtera</Value>
+    </Setting>
+    <Setting Name="lat" Type="System.Double" Scope="User">
+      <Value Profile="(Default)">-6.9347108390819638</Value>
+    </Setting>
+    <Setting Name="lng" Type="System.Double" Scope="User">
+      <Value Profile="(Default)">106.92602167239328</Value>
+    </Setting>
+    <Setting Name="ipAddress" Type="System.String" Scope="User">
+      <Value Profile="(Default)">127.0.0.1:8000</Value>
+    </Setting>
+  </Settings>
+</SettingsFile>
